@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+alembic
+pydantic[email]
+pytest
+httpx
+bcrypt
+pyjwt
+
+python-multipart
