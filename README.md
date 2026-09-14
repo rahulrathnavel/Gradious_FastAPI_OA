@@ -54,4 +54,4 @@ python -m uvicorn main:app --reload
 \*(Note: For Assignment 10, run \python -m alembic upgrade head\ before starting the server).*
 
 **5. Access Swagger Documentation:**
-Open your browser and navigate to: \http://127.0.0.1:8000/docs
+Open your browser and navigate to: http://127.0.0.1:8000/docs
